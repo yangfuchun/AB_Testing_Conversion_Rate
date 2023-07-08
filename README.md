@@ -9,11 +9,11 @@ Let's imagine that you work on the product team at a medium-sized online e-comme
 ### Steps
 The analysis is performed in the following steps:
 
-Designing the experiment
-Collecting and preparing the data
-Visualizing the results
-Testing the hypothesis
-Conclusions
+- Designing the experiment
+- Collecting and preparing the data
+- Visualizing the results
+- Testing the hypothesis
+- Conclusions
 
 ### Description of files
 - [ab_data.csv](https://www.kaggle.com/datasets/zhangluyuan/ab-testing?select=ab_data.csv): consists of 294,478 rows, each representing a user session, and includes the following columns:
