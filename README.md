@@ -25,7 +25,7 @@ landing_page: The design each user saw on that session {old_page, new_page}
 converted: Whether the session ended in a conversion or not (binary, 0=not converted, 1=converted)
 
 ### List of python libraries used
-`statsmodels` `pandas` `scipy` `numpy` `matplotlib``seaborn`
+`statsmodels` `pandas` `scipy` `numpy` `matplotlib` `seaborn`
 
 ### Snapshots
 ![image](https://github.com/yangfuchun/AB_Testing_Conversion_Rate/assets/100629848/eeffc4f8-f520-4303-8018-a360284649cb)
