@@ -16,7 +16,7 @@ Testing the hypothesis
 Conclusions
 
 ### Description of files
-- ab_data.csv: consists of 294,478 rows, each representing a user session, and includes the following columns:
+- [ab_data.csv](https://www.kaggle.com/datasets/zhangluyuan/ab-testing?select=ab_data.csv): consists of 294,478 rows, each representing a user session, and includes the following columns:
 
 user_id: The user ID of each session
 timestamp: Timestamp for the session
