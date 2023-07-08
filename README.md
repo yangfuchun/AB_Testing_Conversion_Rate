@@ -17,11 +17,13 @@ Conclusions
 
 ### Description of files
 - [ab_data.csv](https://www.kaggle.com/datasets/zhangluyuan/ab-testing?select=ab_data.csv): consists of 294,478 rows, each representing a user session, and includes the following columns:
-- user_id: The user ID of each session
-- timestamp: Timestamp for the session
-- group: The group the user was assigned to for that session {control, treatment}
-- landing_page: The design each user saw on that session {old_page, new_page}
-- converted: Whether the session ended in a conversion or not (binary, 0=not converted, 1=converted)
+| Data Files  | Description |
+| ------------- | ------------- |
+| user_id | The user ID of each session |
+| timestamp | Timestamp for the session |
+| group | The group the user was assigned to for that session {control, treatment} |
+| landing_page | The design each user saw on that session {old_page, new_page} |
+| converted | Whether the session ended in a conversion or not (binary, 0=not converted, 1=converted) |
 
 ### List of python libraries used
 `statsmodels` `pandas` `scipy` `numpy` `matplotlib` `seaborn`
